@@ -1,0 +1,10 @@
+/home/mardan/workspace/cc/CS-unix_sock/build/CMakeFiles/rebuild_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/CMakeFiles/edit_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/CMakeFiles/rebuild_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/CMakeFiles/edit_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/echoserver/CMakeFiles/rebuild_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/echoserver/CMakeFiles/echoServer.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/echoserver/CMakeFiles/edit_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/echoclient/CMakeFiles/rebuild_cache.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/echoclient/CMakeFiles/echoClient.dir
+/home/mardan/workspace/cc/CS-unix_sock/build/experiment/echoInstance/echoclient/CMakeFiles/edit_cache.dir

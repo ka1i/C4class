@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../experiment/echoInstance/../config.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+unistd.h
+-
+time.h
+-
+sys/socket.h
+-
+sys/epoll.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+fcntl.h
+-
+
+/home/mardan/workspace/cc/CS-unix_sock/experiment/echoInstance/echoclient/echoclient.c
+config.h
+-
+

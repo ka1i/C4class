@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/echoServer.dir/echoserver.c.o  -o ../../../../Release/bin/echoInstance/echoServer -lc 
