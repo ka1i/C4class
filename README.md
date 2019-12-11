@@ -1,5 +1,10 @@
 # C/C++ language course code
 
+g++ 启用内存消毒器
+```
+g++ -std=c++17 -fsanitize=address -g -Wall
+```
+
 axidraw.c 挺好玩的
 
 mouse.c 获取鼠标坐标
@@ -11,7 +16,6 @@ c++编程基础 cstring
 unix网络编程 CS-unix_sock
 
 c动态链接库学习 shard_lib_learning
-
 
 
 ```
